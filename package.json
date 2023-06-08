@@ -48,7 +48,7 @@
     "jsdom": "^22.0.0",
     "sentry-testkit": "^5.0.5",
     "typescript": "^5.0.4",
-    "vite": "^4.3.6",
+    "vite": "^4.3.9",
     "vite-plugin-dts": "^2.3.0",
     "vitest": "^0.31.1"
   },
